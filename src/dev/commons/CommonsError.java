@@ -1,4 +1,4 @@
-package com.bloogefest.commons;
+package dev.commons;
 
 /**
  * Abstract error class of the dev framework.
