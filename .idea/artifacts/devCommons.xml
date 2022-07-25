@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="devCommons">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="devCommons.jar">
+      <element id="module-output" name="devCommons" />
+    </root>
+  </artifact>
+</component>
